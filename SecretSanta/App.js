@@ -171,6 +171,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     padding: 20,
     backgroundColor: '#d32f2f', 
+    marginTop: 50,
   },
   headerImage: {
     width: 50,
